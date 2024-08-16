@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bass_Seogi</h1>
-<h3 align="center">SCS Localization , Mod Creator</h3>
+<h3 align="center">SCS ETS2 ATS Kor Localization , Mod Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bass-seogi&label=Profile%20views&color=0e75b6&style=flat" alt="bass-seogi" /> </p>
 
