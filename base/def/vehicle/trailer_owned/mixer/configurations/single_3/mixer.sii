@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_body_set : .mixer
+{
+	name: "@@tn_cement_mixer@@"
+	icon: "body/scs_box/curtain"
+	trailer_definition: trailer_def.scs.box.single_3.curtain
+	body[]: "/def/vehicle/trailer_owned/mixer/body/mixer.sii"
+}
+}

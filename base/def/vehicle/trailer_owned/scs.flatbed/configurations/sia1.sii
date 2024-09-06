@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_configuration : .sia1
+{
+	name: "@@tn_single_1axle@@"
+	chain_type: single
+	icon: "chassis/scs_flatbed/single_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_1.sii"
+}
+}

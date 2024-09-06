@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_trailer_data : vehicle.mixer
+{
+	info[]: ""
+	info[]: "@@tn_cement_mixer@@"
+}
+}

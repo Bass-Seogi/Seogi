@@ -1,0 +1,11 @@
+SiiNunit
+{
+trailer_configuration : .siabs
+{
+	name: "@@tn_bdouble_3_3@@, 조향가능"
+	chain_type: b_double
+	icon: "chassis/scs_flatbed/double_3_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3a_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_st_ax_r.sii"
+}
+}

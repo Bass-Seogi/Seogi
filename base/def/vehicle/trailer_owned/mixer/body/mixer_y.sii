@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_trailer_body_data : mixer_y.body
+{
+	name: "@@tn_cement_mixer@@ Yellow"
+	price: 12000
+	unlock: 10
+	icon: "body/scs_box/curtain"
+	size: (1, 1, 1)	# width, height, length (internal size of the body)
+	total_size: (1, 1, 1)	# width, height, length (size of the body + chassis)
+
+	volume: 89
+	body_type: curtainside
+
+	mass: 0
+
+	empty_cargo_model: "/def/vehicle/trailer/cement_mixer/mixer_y.sii"
+
+}
+}
