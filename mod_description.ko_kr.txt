@@ -1,0 +1,62 @@
+﻿[blue]콘보이 서기 트리플, HCT(High Capacity Transport, 턴파이크 더블)
+B-더블, 더블, HCT를 모든 유럽에서 나타나는 모드 입니다
+
+[red]1.50 부터 정상 작동합니다[normal]
+
+
+[green]지역 제한 해제 안되면
+새로 구매 하던지 정비소에서 체인 타입 변경 하면 됩니다
+
+트레일러 변경은 싱글에서만 가능합니다
+싱글에서 구입 후 모드를 제거해야 콘보이 가능 합니다
+tmp는 모드가 자동으로 제거 되어서 하지 않아도 됩니다
+
+싱글에서 구입하고 tmp 넘어와야 됩니다
+짐 안 잡히는건 tmp 문제입니다
+잠을 자야 해결 됩니다[normal]
+
+
+[orange]경고 HCT 트리플 충돌
+기본 HCT 가능 지역인 필란드는 상관없구요
+더블 가능한 지역은 거의 괸찮은데 일부지역은 충돌 되기도 합니다
+싱글만 가능한 지역은 거의다 충돌 됩니다
+페리	트렐레보리, 칼스크로나
+터널	칼레 - 포크스턴(도버)[normal]
+
+
+추가 트레일러
+평판 B-더블
+커텐사이더 오픈 - 옆면 과 후면
+레미콘
+(Krone HCT - Krone DLC 필요)
+(krone_boxliner_2017_cargo - Krone DLC 필요)
+
+냉동 컨테이너
+krone.boxliner
+tirsan.shg
+wielton.containerm
+kogel.port
+
+어려운 주차
+콘솔 명령어 입니다
+"g_simple_parking_doubles 0"
+
+딜러에서 바로 구매 가능 한데 지역 제한 해제 안됩니다
+체인 타입 더블 싱글 등에서 HCT 같은식으로
+다른 체인에서 변경후 구매 하면 해제 잘 됩니다
+트레일러 브라우저에 [박스 더블] 이런 식 있으면 안되고 x
+[박스] 이렇게 더블 글씨가 없어져야 적용 된거에요
+
+
+[orange]경고 덤프 B-더블 바디는 길고 운전석을 관통합니다.
+일부 트럭 6x4 및 6x2 섀시를 사용하십시오.
+
+daf.xf
+man.tgx
+man.tgx_euro6
+mercedes.actros
+mercedes.actros2014
+renault.t
+scania.r_2016
+scania.s_2016
+volvo.fh16
