@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : lc_bumper01p.krone.profiliner.r_bumper
+{
+	name: "@@paint@@ lc"
+	price: 1200
+	unlock: 0
+	icon: "r_bumper/krone_profiliner/r_bumper_01_paintable"
+	exterior_model: "/vehicle/trailer_owned/upgrade/r_bumper/krone_load_carrier/r_bumper_01_paintable.pmd"
+
+	suitable_for[]: "loadcarrier.krone.profiliner.chassis"
+
+	suitable_for[]: "dolly_c_l.scs.gooseneck.chassis"
+	suitable_for[]: "dolly_c_sp_l.scs.gooseneck.chassis"
+}
+}

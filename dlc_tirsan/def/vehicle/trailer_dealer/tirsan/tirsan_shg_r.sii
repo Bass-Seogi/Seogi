@@ -1,0 +1,193 @@
+SiiNunit
+{
+trailer : .tirsan.shg_r
+{
+ trailer_definition: trailer_def.tirsan.shg.single_3.container
+ oversize: false
+ cargo_mass: 14999.000000
+ cargo_damage: 0.000000
+ virtual_rear_wheels_offset: 0.000000
+ slave_trailer: null
+ is_private: false
+ trailer_body_wear: 0.000000
+ accessories[]: _nameless.1.4570.dcc0
+ accessories[]: _nameless.1.4570.d900
+ accessories[]: _nameless.1.4570.dd40
+ accessories[]: .conr
+ accessories[]: _nameless.1.5bd6.2670
+ accessories[]: _nameless.1.5bd6.28b0
+ accessories[]: _nameless.1.5bd6.26d0
+ accessories[]: _nameless.1.66a7.8b60
+ accessories[]: _nameless.1.66a7.8620
+ accessories[]: _nameless.1.668d.5da0
+ accessories[]: _nameless.1.668d.6160
+ accessories[]: _nameless.1.668d.61c0
+ accessories[]: _nameless.1.668d.6220
+ accessories[]: _nameless.1.668d.5b00
+ accessories[]: _nameless.1.668d.5e00
+ accessories[]: _nameless.1.668d.6100
+ accessories[]: _nameless.1.3e86.b330
+ accessories[]: _nameless.1.3e86.b3c0
+ accessories[]: _nameless.1.5ba8.1510
+ accessories[]: _nameless.1.5ba8.1090
+ accessories[]: _nameless.1.6697.1cc0
+ odometer: 0
+ odometer_float_part: 0.000000
+ trip_fuel_l: 0
+ trip_fuel: 0.000000
+ trip_distance_km: 0
+ trip_distance: 0.000000
+ trip_time_min: 0
+ trip_time: 0.000000
+ license_plate: ""
+ chassis_wear: 0.000000
+ wheels_wear: 3
+ wheels_wear[0]: 0.000000
+ wheels_wear[1]: 0.000000
+ wheels_wear[2]: 0.000000
+}
+
+vehicle_accessory : _nameless.1.4570.dcc0 {
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/data.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.1.4570.d900 {
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/chassis/ch_3.sii"
+ refund: 0
+}
+
+vehicle_accessory : _nameless.1.4570.dd40 {
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/body/container_40r.sii"
+ refund: 0
+}
+
+vehicle_accessory : .conr
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40r.sii"
+}
+
+vehicle_wheel_accessory : _nameless.1.5bd6.2670 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.5bd6.28b0 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.5bd6.26d0 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.66a7.8b60 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.66a7.8620 {
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.5da0 {
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.6160 {
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.61c0 {
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.6220 {
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.5b00 {
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_disc/disc_0_01_matt_gray.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.5e00 {
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/hub_0_01.sii"
+ refund: 0
+}
+
+vehicle_wheel_accessory : _nameless.1.668d.6100 {
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/nuts_steel_0_01.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.1.3e86.b330 {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/accessory/r_bumper/simple.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.1.3e86.b3c0 {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/accessory/markers/simple.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.1.5ba8.1510 {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/accessory/chs_f_l/cage_3_13.sii"
+ refund: 0
+}
+
+vehicle_addon_accessory : _nameless.1.5ba8.1090 {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/accessory/chs_f_r/cage_3_13.sii"
+ refund: 0
+}
+
+vehicle_paint_job_accessory : _nameless.1.6697.1cc0 {
+ mask_r_color: (1.000000, 0.000000, 0.000000)
+ mask_g_color: (0.000000, 1.000000, 0.000000)
+ mask_b_color: (0.000000, 0.000000, 1.000000)
+ flake_color: (0.000000, 1.000000, 0.000000)
+ flip_color: (1.000000, 0.000000, 0.000000)
+ base_color: (0.014444, 0.015212, 0.078195)
+ data_path: "/def/vehicle/trailer_owned/tirsan.shg/paint_job/color1.sii"
+ refund: 0
+}
+
+}

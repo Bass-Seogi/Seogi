@@ -1,0 +1,394 @@
+SiiNunit
+{
+trailer : .schmitz.reefer.hct
+{
+ trailer_definition: trailer_def.schmitz.sko.double_3_2.reefer
+	accessories[]: .data
+	accessories[]: .chassis
+	accessories[]: .body
+	accessories[]: .f_body
+	accessories[]: .paint_job
+
+	accessories[]: .r_bumper
+	accessories[]: .chs_f_l
+	accessories[]: .chs_f_r
+	accessories[]: .markers
+
+	accessories[]: .tire
+	accessories[]: .hub
+	accessories[]: .nuts
+
+	accessories[]: .tire2
+	accessories[]: .hub2
+	accessories[]: .nuts2
+
+	accessories[]: .tire3
+	accessories[]: .hub3
+	accessories[]: .nuts3
+	accessories[]: .trlr_cables
+
+	slave_trailer: .dolly
+}
+
+vehicle_accessory: .data
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/data.sii"
+}
+
+vehicle_accessory : .chassis
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/chassis/ch_3_13_hook.sii"
+}
+
+vehicle_accessory : .body
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/body/reefer_13_euro_combi.sii"
+}
+
+vehicle_accessory : .f_body
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/f_body/scu.sii"
+}
+
+vehicle_paint_job_accessory : .paint_job
+{
+ mask_r_color: (1.000000, 0.590593, 0.088656)
+ mask_g_color: (0.270482, 0.270482, 0.304970)
+ mask_b_color: (1.000000, 1.000000, 1.000000)
+ flake_color: (0.004026, 0.119548, 0.502863)
+ flip_color: (0.001519, 0.008570, 0.031896)
+ base_color: (0.001821, 0.034340, 0.132868)
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/paint_job/schmitz.sii"
+}
+
+vehicle_addon_accessory : .r_bumper
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/r_bumper/simple_hook.sii"
+}
+
+vehicle_addon_accessory : .chs_f_l
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/chs_f_l/cage_2_3_13.sii"
+}
+
+vehicle_addon_accessory : .chs_f_r
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/chs_f_r/cage_2_3_13.sii"
+}
+
+vehicle_addon_accessory : .markers
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/markers/simple_13.sii"
+}
+
+vehicle_wheel_accessory : .tire
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .hub
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .nuts
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_wheel_accessory : .tire2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .hub2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .nuts2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_wheel_accessory : .tire3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .hub3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .nuts3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_addon_accessory : .trlr_cables
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/trlr_cables/cables_ch_3_13_hook.sii"
+}
+
+# -------------------- DOLLY ---------------------
+
+trailer : .dolly
+{
+	accessories[]: .dolly.data
+	accessories[]: .dolly.chassis
+	accessories[]: .dolly.r_bumper
+	accessories[]: .dolly.trlr_cables
+	accessories[]: .dolly.paint_job
+	
+	accessories[]: .dolly.rtire
+	accessories[]: .dolly.rhub
+	accessories[]: .dolly.rnuts
+	
+	accessories[]: .dolly.rtire2
+	accessories[]: .dolly.rhub2
+	accessories[]: .dolly.rnuts2
+
+	slave_trailer: .second
+}
+
+vehicle_accessory: .dolly.data
+{
+	data_path: "/def/vehicle/trailer_owned/scs.gooseneck/data.sii"
+}
+
+vehicle_accessory: .dolly.chassis
+{
+	data_path: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/dolly_conv_long.sii"
+}
+
+vehicle_addon_accessory: .dolly.r_bumper
+{
+	data_path: "/def/vehicle/trailer_owned/scs.gooseneck/accessory/r_bumper/euro_3_dolly.sii"
+}
+
+vehicle_addon_accessory: .dolly.trlr_cables
+{
+	data_path: "/def/vehicle/trailer_owned/scs.gooseneck/accessory/trlr_cables/dolly_cables.sii"
+}
+
+vehicle_paint_job_accessory : .dolly.paint_job
+{
+	data_path: "/def/vehicle/trailer_owned/scs.gooseneck/paint_job/color5.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rtire
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rhub
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rnuts
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rtire2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rhub2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory: .dolly.rnuts2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+# -------------------- SECOND 13.7 ---------------------
+
+trailer : .second
+{
+	accessories[]: .second.data
+	accessories[]: .second.chassis
+	accessories[]: .second.body
+	accessories[]: .second.f_body
+	accessories[]: .second.paint_job
+
+	accessories[]: .second.r_bumper
+	accessories[]: .second.chs_f_l
+	accessories[]: .second.chs_f_r
+	accessories[]: .second.markers
+
+	accessories[]: .second.tire
+	accessories[]: .second.hub
+	accessories[]: .second.nuts
+
+	accessories[]: .second.tire2
+	accessories[]: .second.hub2
+	accessories[]: .second.nuts2
+
+	accessories[]: .second.tire3
+	accessories[]: .second.hub3
+	accessories[]: .second.nuts3
+}
+
+vehicle_accessory: .second.data
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/data.sii"
+}
+
+vehicle_accessory : .second.chassis
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/chassis/ch_3_13_.sii"
+}
+
+vehicle_accessory : .second.body
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/body/reefer_13_euro_combi.sii"
+}
+
+vehicle_accessory : .second.f_body
+{
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/f_body/scu.sii"
+}
+
+vehicle_paint_job_accessory : .second.paint_job
+{
+ mask_r_color: (1.000000, 0.590593, 0.088656)
+ mask_g_color: (0.270482, 0.270482, 0.304970)
+ mask_b_color: (1.000000, 1.000000, 1.000000)
+ flake_color: (0.004026, 0.119548, 0.502863)
+ flip_color: (0.001519, 0.008570, 0.031896)
+ base_color: (0.001821, 0.034340, 0.132868)
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/paint_job/schmitz.sii"
+}
+
+vehicle_addon_accessory : .second.r_bumper
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/r_bumper/simple.sii"
+}
+
+vehicle_addon_accessory : .second.chs_f_l
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/chs_f_l/cage_2_3_13.sii"
+}
+
+vehicle_addon_accessory : .second.chs_f_r
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/chs_f_r/cage_2_3_13.sii"
+}
+
+vehicle_addon_accessory : .second.markers
+{
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/trailer_owned/schmitz.sko/accessory/markers/simple_13.sii"
+}
+
+vehicle_wheel_accessory : .second.tire
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .second.hub
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .second.nuts
+{
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_wheel_accessory : .second.tire2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .second.hub2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .second.nuts2
+{
+ offset: 2
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+vehicle_wheel_accessory : .second.tire3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_tire/385_65_r22_e.sii"
+}
+
+vehicle_wheel_accessory : .second.hub3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_hub/schmitz.sii"
+}
+
+vehicle_wheel_accessory : .second.nuts3
+{
+ offset: 4
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/trailer_wheel/r_nuts/schmitz_plastic.sii"
+}
+
+}

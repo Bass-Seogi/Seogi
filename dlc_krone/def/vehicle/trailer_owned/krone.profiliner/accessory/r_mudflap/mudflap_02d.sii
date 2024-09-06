@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : mud02d.krone.profiliner.r_mudflap
+{
+	name: "@@krone_profi@@ dolly"
+	price: 680
+	unlock: 0
+	icon: "r_mudflap/krone_profiliner/mudflap_02"
+	part_type: factory
+
+	exterior_model: "/vehicle/trailer_owned/upgrade/r_mudflap/krone_profiliner/mudflap_02d.pmd"
+
+	suitable_for[]: "bumper01d.krone.profiliner.r_bumper"
+	suitable_for[]: "bumper01pd.krone.profiliner.r_bumper"
+	suitable_for[]: "bumper02d.krone.profiliner.r_bumper"
+	suitable_for[]: "bumper02pd.krone.profiliner.r_bumper"
+}
+}
