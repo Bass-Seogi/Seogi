@@ -1,0 +1,28 @@
+SiiNunit
+{
+trailer_configuration : .hct_10s
+{
+	name: "HCT 10(로딩 길음), 스프레드"
+	chain_type: hct
+	icon: "chassis/scs_box/hct_3_2_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_sp_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3.sii"
+}
+}

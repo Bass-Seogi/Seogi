@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : bumper02pd.scs.gooseneck.r_bumper
+{
+	name: "Krone @@paint@@ II dolly"
+	price: 1440
+	unlock: 1
+	icon: "r_bumper/krone_profiliner/r_bumper_02_paintable"
+
+	exterior_model: "/vehicle/trailer_owned/upgrade/r_bumper/krone_profiliner/r_bumper_02pd.pmd"
+
+	suitable_for[]: "dolly_c_l.scs.gooseneck.chassis"
+	suitable_for[]: "dolly_c_sp_l.scs.gooseneck.chassis"
+}
+}

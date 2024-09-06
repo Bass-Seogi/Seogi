@@ -1,0 +1,12 @@
+SiiNunit
+{
+trailer_configuration : .siaba_c
+{
+	name: "BA_C"
+	chain_type: b_double
+	icon: "chassis/scs_gooseneck/bdouble_3_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_3_cet_ax.sii"
+}
+}

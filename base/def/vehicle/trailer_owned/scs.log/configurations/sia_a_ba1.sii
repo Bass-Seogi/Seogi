@@ -1,0 +1,13 @@
+SiiNunit
+{
+trailer_configuration : .sia_a_ba1
+{
+	name: "A_BA, 1액슬"
+	chain_type: hct
+	icon: "chassis/scs_log/hct_3_2_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/ch_3_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/dolly_conv_long.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_1.sii"
+}
+}

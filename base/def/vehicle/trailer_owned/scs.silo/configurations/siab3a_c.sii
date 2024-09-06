@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .siab3a_c
+{
+	name: "B3A_C, 3x3+3+2액슬"
+	chain_type: b_double
+	icon: "chassis/scs_silo/bdouble_3_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.silo/chassis/ch_8_3a_lead.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.silo/chassis/ch_8_3a_lead.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.silo/chassis/ch_8_3a_lead.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.silo/chassis/ch_8_3a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.silo/chassis/ch_5_2a_pull.sii"
+}
+}

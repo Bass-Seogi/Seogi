@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : simple_d.scs.gooseneck.r_mudflap
+{
+	name: "@@standard@@ dolly"
+	price: 440
+	unlock: 7
+	icon: "r_mudflap/scs_box/simple"
+
+	exterior_model: "/vehicle/trailer_owned/scs_gooseneck/accessory/r_mudflap/simple_d.pmd"
+
+	suitable_for[]: "led_d.scs.gooseneck.r_bumper"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+trailer_configuration : .siab3
+{
+	name: "B-3"
+	chain_type: b_double
+	icon: "chassis/scs_log/bdouble_3_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.log/chassis/ch_3.sii"
+}
+}

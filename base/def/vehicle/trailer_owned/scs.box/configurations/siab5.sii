@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .siab5
+{
+	name: "B-5"
+	chain_type: b_double
+	icon: "chassis/scs_box/bdouble_3_3"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_3.sii"
+}
+}

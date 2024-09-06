@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : w_lead_d.scs.gooseneck.r_mudflap
+{
+	name: "@@exclusive@@ dolly"
+	price: 650
+	unlock: 14
+	icon: "r_mudflap/scs_box/w_lead"
+
+	exterior_model: "/vehicle/trailer_owned/scs_gooseneck/accessory/r_mudflap/w_lead_d.pmd"
+
+	suitable_for[]: "led_d.scs.gooseneck.r_bumper"
+}
+}
