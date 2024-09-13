@@ -5,8 +5,8 @@
 다른 사이트에서 내 모드를 찾아도 지원하지 않습니다.[normal]
 
 
-크기ㅤ - Small(기본크기), Med, Big
-위치ㅤ - Middle(기본위치), High, Low
+크기ㅤ - Small(기본크기), Medium, Big
+위치ㅤ - Middle(기본위치), 2High, 3Low
 
 
 daf.2021

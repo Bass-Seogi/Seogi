@@ -37,14 +37,14 @@ accessory_hookup_int_data : gb.hud.addon_hookup
 	unlock: 2
 }
 
-accessory_hookup_int_data : ts.hud.addon_hookup
+accessory_hookup_int_data : ds.hud.addon_hookup
 {
 	name: "HUD DLC @@small@@"
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 	model: "/vehicle/truck/upgrade/hud.pmd"
 	# coll: "hud.pmc"
-	variant: ts
+	variant: ds
 	suitable_for[]: "set_glass"
 	price: 2500
 	unlock: 1
@@ -52,14 +52,14 @@ accessory_hookup_int_data : ts.hud.addon_hookup
 	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
-accessory_hookup_int_data : tm.hud.addon_hookup
+accessory_hookup_int_data : dm.hud.addon_hookup
 {
 	name: "HUD DLC @@medium@@"
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 	model: "/vehicle/truck/upgrade/hud.pmd"
 	# coll: "hud.pmc"
-	variant: tm
+	variant: dm
 	suitable_for[]: "set_glass"
 	price: 2700
 	unlock: 1
@@ -67,14 +67,14 @@ accessory_hookup_int_data : tm.hud.addon_hookup
 	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
-accessory_hookup_int_data : tb.hud.addon_hookup
+accessory_hookup_int_data : db.hud.addon_hookup
 {
 	name: "HUD DLC @@big@@"
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 	model: "/vehicle/truck/upgrade/hud.pmd"
 	# coll: "hud.pmc"
-	variant: tb
+	variant: db
 	suitable_for[]: "set_glass"
 	price: 3200
 	unlock: 1

@@ -5,8 +5,8 @@ It will function normally from 1.50
 If you find my mod on other sites, we do not support it.[normal]
 
 
-Sizeㅤ - Small(default size), Med, Big
-Positionㅤ - Middle(default position), High, Low
+Sizeㅤ - Small(default size), Medium, Big
+Positionㅤ - Middle(default position), 2High, 3Low
 
 
 daf.2021
