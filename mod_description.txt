@@ -1,0 +1,34 @@
+﻿[blue]Seogi ATS HUD(heads up display)
+It will function normally from 1.51
+
+[red]My mod is only hosted in the workshop.
+If you find my mod on other sites, we do not support it.[normal]
+
+
+
+HUD - Press the hud dot on the handle to display the list of HUD
+(HUD DLC - Need Cabin Accessories DLC)
+
+Sizeㅤ - Small(default size), Med, Big
+
+
+freightliner.cascadia2019
+volvo.vnl
+volvo.vnl2018
+
+peterbilt.579
+peterbilt.389
+
+kenworth.w900
+kenworth.t680
+kenworth.t680_2022
+
+mack.anthem
+intnational.9900i
+
+intnational.lt
+intnational.lonestar
+
+westernstar.5700xe
+westernstar.57x
+westernstar.49x
