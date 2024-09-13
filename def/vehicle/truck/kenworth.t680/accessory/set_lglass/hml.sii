@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hml.kenworth.w900.set_lglass
+accessory_addon_int_ui_data : hml.kenworth.t680.set_lglass
 {
 	name: "HUD @@lite@@"
 	price: 2100

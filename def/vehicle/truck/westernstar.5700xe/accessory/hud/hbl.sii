@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hbl.kenworth.w900.hud
+accessory_addon_int_ui_data : hbl.westernstar.5700xe.hud
 {
 	name: "HUD B @@big@@ @@lite@@"
 	price: 2200

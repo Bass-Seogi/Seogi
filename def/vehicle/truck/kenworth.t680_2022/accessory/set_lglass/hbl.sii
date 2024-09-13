@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hbl.kenworth.w900.set_lglass
+accessory_addon_int_ui_data : hbl.kenworth.t680_2022.set_lglass
 {
 	name: "HUD B @@big@@ @@lite@@"
 	price: 2200

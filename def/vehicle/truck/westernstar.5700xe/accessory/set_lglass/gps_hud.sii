@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : gps_hud.kenworth.w900.set_lglass
+accessory_addon_int_ui_data : gps_hud.westernstar.5700xe.set_lglass
 {
 	name: "HUD @@portable_navigator@@"
 	price: 1000

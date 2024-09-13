@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hs.kenworth.w900.set_lglass
+accessory_addon_int_ui_data : hs.volvo.vnl2018.set_lglass
 {
 	name: "HUD S @@small@@"
 	price: 2050

@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hm.kenworth.w900.hud
+accessory_addon_int_ui_data : hm.mack.anthem.hud
 {
 	name: "HUD"
 	price: 2150

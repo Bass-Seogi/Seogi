@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : ds.kenworth.w900.hud
+accessory_addon_data : ds.volvo.vnl2018.hud
 {
 	name: "HUD DLC @@small@@ s"
 	price: 1500
@@ -8,7 +8,7 @@ accessory_addon_data : ds.kenworth.w900.hud
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 
-	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
+	overrides[]: "/def/vehicle/truck/volvo.vnl2018/accessory/set_lglass/gps_hud.sii"
 	interior_model: "/vehicle/truck/upgrade/hud.pmd"
 	variant: ds
 	look: default

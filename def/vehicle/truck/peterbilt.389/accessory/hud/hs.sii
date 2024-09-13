@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hs.kenworth.w900.hud
+accessory_addon_int_ui_data : hs.peterbilt.389.hud
 {
 	name: "HUD S @@small@@"
 	price: 2050

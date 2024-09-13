@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hsl.kenworth.w900.hud
+accessory_addon_int_ui_data : hsl.mack.anthem.hud
 {
 	name: "HUD S @@small@@ @@lite@@"
 	price: 2000

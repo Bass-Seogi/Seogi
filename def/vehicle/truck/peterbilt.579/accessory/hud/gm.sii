@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : gm.kenworth.w900.hud
+accessory_addon_data : gm.peterbilt.579.hud
 {
 	name: "HUD GPS @@medium@@ m"
 	price: 1850

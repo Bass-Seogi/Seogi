@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : gs.kenworth.w900.hud
+accessory_addon_data : gs.mack.anthem.hud
 {
 	name: "HUD GPS @@small@@ s"
 	price: 1800

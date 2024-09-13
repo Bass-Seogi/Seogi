@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_int_ui_data : hm.kenworth.w900.set_lglass
+accessory_addon_int_ui_data : hm.intnational.9900i.set_lglass
 {
 	name: "HUD"
 	price: 2150
