@@ -3,7 +3,7 @@ SiiNunit
 accessory_addon_int_ui_data : hb.volvo.fh16.hud
 {
 	name: "HUD B @@big@@"
-	price: 2150
+	price: 2250
 	unlock: 0
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
