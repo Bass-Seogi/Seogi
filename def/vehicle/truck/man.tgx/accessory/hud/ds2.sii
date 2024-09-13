@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : ds2.man.tgx.hud
+{
+	name: "HUD DLC @@small@@ @@high@@ SH"
+	price: 1500
+	unlock: 1
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	overrides[]: "/def/vehicle/truck/man.tgx/accessory/set_lglass/gps_hud.sii"
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: ds
+	look: default
+}
+}

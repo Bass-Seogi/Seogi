@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : ds.iveco.stralis.hud
+{
+	name: "HUD DLC @@small@@ S"
+	price: 1500
+	unlock: 1
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	overrides[]: "/def/vehicle/truck/iveco.stralis/accessory/set_lglass/gps_hud.sii"
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: ds
+	look: default
+}
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : gb2.renault.magnum.hud2
+{
+	name: "HUD GPS @@big@@ @@high@@ BH"
+	price: 1900
+	unlock: 2
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: gb
+	look: default
+}
+}

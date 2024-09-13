@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : dm2.renault.t.hud
+{
+	name: "HUD DLC @@medium@@ @@high@@ MH"
+	price: 1600
+	unlock: 1
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	overrides[]: "/def/vehicle/truck/renault.t/accessory/set_lglass/gps_hud.sii"
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: dm
+	look: default
+}
+}

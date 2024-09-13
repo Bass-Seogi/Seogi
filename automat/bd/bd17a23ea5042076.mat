@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/share/textures/decal/reflective_stripe.tobj"
+	texture_name[0] : "texture_base"
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : painto.volvo.fh16.decals
+{
+	name: "@@paint@@ owner"
+	price: 250
+	unlock: 0
+	icon: "decals/volvo_fh16_2009/paint"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/volvo_fh16_2009/accessory/decals/painto.pmd"
+
+	suitable_for[]: "l2h2.volvo.fh16.cabin"
+	suitable_for[]: "l2h3.volvo.fh16.cabin"
+}
+}

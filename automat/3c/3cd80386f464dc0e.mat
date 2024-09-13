@@ -1,0 +1,9 @@
+material : "eut2.dif.lum.over.rfx" {
+	texture[0] : "/vehicle/truck/share/gps.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.0168765 , 0.0168765 , 0.0168765 }
+	reflection : 0
+	shininess : 4
+	specular : { 0.00865934 , 0.00865934 , 0.00865934 }
+}

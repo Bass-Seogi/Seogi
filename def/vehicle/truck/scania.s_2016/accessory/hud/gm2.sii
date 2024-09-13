@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : gm2.scania.s_2016.hud
+{
+	name: "HUD GPS @@medium@@ @@high@@ MH"
+	price: 1850
+	unlock: 2
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: gm
+	look: default
+}
+}
