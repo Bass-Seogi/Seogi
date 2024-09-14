@@ -1,0 +1,10 @@
+material : "eut2.dif.lum.spec.lvcol.rfx" {
+	texture[0] : "/vehicle/truck/upgrade/interior_decors/toyglass/textures/tabh.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : -1
+	aux[5] : { 2000 , 3 }
+	diffuse : { 0.503885 , 0.503885 , 0.503887 }
+	reflection : 0
+	shininess : 1000
+	specular : { 0.0509394 , 0.0509394 , 0.0509395 }
+}

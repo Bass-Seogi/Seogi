@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.oclu.rfx" {
+	texture[0] : "/vehicle/truck/renault_t/interior/upper_walls.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/renault_t/interior/ao.tobj"
+	texture_name[1] : "texture_oclu"
+	add_ambient : 0
+	diffuse : { 0.582711 , 0.582711 , 0.582711 }
+	reflection : 1
+	shininess : 15
+	specular : { 1 , 1 , 1 }
+}
