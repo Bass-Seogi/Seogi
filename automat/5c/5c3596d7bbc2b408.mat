@@ -1,9 +1,0 @@
-material : "eut2.dif.lum.add.rfx" {
-	texture[0] : "/vehicle/truck/share/glass.tobj"
-	texture_name[0] : "texture_base"
-	add_ambient : 1
-	diffuse : { 1 , 1 , 1 }
-	reflection : 0
-	shininess : 250
-	specular : { 0.00467475 , 0.00467475 , 0.00467475 }
-}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : db.mack.pinnacle.hud
+{
+	name: "HUD DLC @@big@@ b"
+	price: 1700
+	unlock: 1
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	overrides[]: "/def/vehicle/truck/mack.pinnacle/accessory/set_lglass/gps_hud.sii"
+	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	variant: db
+	look: default
+}
+}

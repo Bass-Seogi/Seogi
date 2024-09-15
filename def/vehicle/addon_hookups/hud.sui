@@ -49,7 +49,7 @@ accessory_hookup_int_data : ds.hud.addon_hookup
 	price: 2500
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
+	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : dm.hud.addon_hookup
@@ -64,7 +64,7 @@ accessory_hookup_int_data : dm.hud.addon_hookup
 	price: 2700
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
+	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : db.hud.addon_hookup
@@ -79,5 +79,5 @@ accessory_hookup_int_data : db.hud.addon_hookup
 	price: 3200
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
+	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
 }

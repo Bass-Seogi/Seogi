@@ -12,23 +12,22 @@ HUD - 핸들위에 점 누르면 HUD 목록이 나타 납니다
 크기ㅤ - 소(기본크기), 중, 대
 
 
-freightliner.cascadia2019
-volvo.vnl
-volvo.vnl2018
-
-peterbilt.579
+peterbilt.579 (Rear cam)
+kenworth.t680
+kenworth.w900 (Rear cam)
 peterbilt.389
 
-kenworth.w900
-kenworth.t680
-kenworth.t680_2022
-
-mack.anthem
+intnational.lonestar
+intnational.lt
 intnational.9900i
 
-intnational.lt
-intnational.lonestar
+mack.anthem
+mack.pinnacle
 
-westernstar.5700xe
-westernstar.57x
+freightliner.cascadia2019 (Rear cam)
 westernstar.49x
+westernstar.57x
+westernstar.5700xe
+
+volvo.vnl
+volvo.vnl2018

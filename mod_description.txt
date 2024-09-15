@@ -12,23 +12,22 @@ HUD - Press the hud dot on the handle to display the list of HUD
 Sizeㅤ - Small(default size), Med, Big
 
 
-freightliner.cascadia2019
-volvo.vnl
-volvo.vnl2018
-
 peterbilt.579
+kenworth.t680
+kenworth.w900
 peterbilt.389
 
-kenworth.w900
-kenworth.t680
-kenworth.t680_2022
-
-mack.anthem
+intnational.lonestar
+intnational.lt
 intnational.9900i
 
-intnational.lt
-intnational.lonestar
+mack.anthem
+mack.pinnacle
 
-westernstar.5700xe
-westernstar.57x
+freightliner.cascadia2019
 westernstar.49x
+westernstar.57x
+westernstar.5700xe
+
+volvo.vnl
+volvo.vnl2018
