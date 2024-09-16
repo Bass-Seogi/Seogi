@@ -37,7 +37,7 @@ accessory_hookup_int_data : gb.hudl.addon_hookup
 	unlock: 2
 }
 
-accessory_hookup_int_data : ds.hudl.addon_hookup
+accessory_hookup_int_ui_data : ds.hudl.addon_hookup
 {
 	name: "HUD DLC @@small@@"
 	icon: "gps.dlc_toys"
@@ -49,10 +49,12 @@ accessory_hookup_int_data : ds.hudl.addon_hookup
 	price: 2500
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
+	ui_path: "/ui/dashboard/gps.dlc_toys.sii"
+	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toyglass/gps_ui.tobj"
+	ui_drawable_size: (512, 256)
 }
 
-accessory_hookup_int_data : dm.hudl.addon_hookup
+accessory_hookup_int_ui_data : dm.hudl.addon_hookup
 {
 	name: "HUD DLC @@medium@@"
 	icon: "gps.dlc_toys"
@@ -64,10 +66,12 @@ accessory_hookup_int_data : dm.hudl.addon_hookup
 	price: 2700
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
+	ui_path: "/ui/dashboard/gps.dlc_toys.sii"
+	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toyglass/gps_ui.tobj"
+	ui_drawable_size: (512, 256)
 }
 
-accessory_hookup_int_data : db.hudl.addon_hookup
+accessory_hookup_int_ui_data : db.hudl.addon_hookup
 {
 	name: "HUD DLC @@big@@"
 	icon: "gps.dlc_toys"
@@ -79,5 +83,7 @@ accessory_hookup_int_data : db.hudl.addon_hookup
 	price: 3200
 	unlock: 1
 
-	overrides[]: "/def/vehicle/truck/kenworth.w900/accessory/set_lglass/gps_hud.sii"
+	ui_path: "/ui/dashboard/gps.dlc_toys.sii"
+	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toyglass/gps_ui.tobj"
+	ui_drawable_size: (512, 256)
 }
