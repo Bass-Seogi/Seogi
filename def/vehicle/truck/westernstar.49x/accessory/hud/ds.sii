@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : ds.westernstar.49x.hud
+accessory_addon_int_ui_data : ds.westernstar.49x.hud
 {
 	name: "HUD DLC @@small@@ s"
 	price: 1500

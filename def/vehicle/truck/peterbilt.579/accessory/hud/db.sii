@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : db.peterbilt.579.hud
+accessory_addon_int_ui_data : db.peterbilt.579.hud
 {
 	name: "HUD DLC @@big@@ b"
 	price: 1700

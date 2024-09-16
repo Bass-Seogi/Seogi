@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : ds.peterbilt.579.set_lglass
+accessory_addon_int_ui_data : ds.peterbilt.579.set_lglass
 {
 	name: "HUD DLC @@small@@ s"
 	price: 1500
