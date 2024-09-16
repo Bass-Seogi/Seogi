@@ -1,5 +1,5 @@
 ﻿[blue]서기 HUD(heads up display) 모든 트럭
-1.50 부터 정상 작동합니다
+1.51 부터 정상 작동합니다
 
 [red]내 모드는 창작마당에만 올려 집니다.
 다른 사이트에서 내 모드를 찾아도 지원하지 않습니다.[normal]
@@ -20,18 +20,17 @@ man.tgx_euro6
 man.tgx_2020
 
 mercedes.actros - Cabin Accessories DLC 전용
-mercedes.actros2014
+mercedes.actros2014 (set_glass)
 
 renault.magnum - Cabin Accessories DLC 전용
-renault.premium - Cabin Accessories DLC 전용
+renault.premium - Cabin Accessories DLC 전용 (set_glass)
 renault.t
 
-scania.rㅤ scania.streamline
+scania.rㅤ scania.streamline (set_glass)
 scania.r_2016ㅤ scania.s_2016
 
-volvo.fh16 - 고급형 인테러어 전용
-volvo.fh16_2012
-
+volvo.fh16 (decals) - 고급형 인테러어 전용
+volvo.fh16_2012 (decals, set_glass)
 
 
 HUD - 핸들위에 점 누르면 HUD 목록이 나타 납니다

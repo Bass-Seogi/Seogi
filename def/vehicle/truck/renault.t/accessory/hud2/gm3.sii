@@ -8,7 +8,7 @@ accessory_addon_data : gm3.renault.t.hud2
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 
-	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	interior_model: "/vehicle/truck/upgrade/hud3.pmd"
 	variant: gm
 	look: default
 }

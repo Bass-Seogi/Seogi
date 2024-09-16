@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : gb3.man.tgx_euro6.set_lglass
+{
+	name: "HUD GPS @@big@@ @@low@@ BL"
+	price: 1900
+	unlock: 2
+	icon: "gps.dlc_toys"
+	part_type: aftermarket
+
+	interior_model: "/vehicle/truck/upgrade/hud3.pmd"
+	variant: gb
+	look: default
+}
+}

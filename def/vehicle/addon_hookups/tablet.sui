@@ -3,7 +3,7 @@ accessory_hookup_int_ui_data : tab_h.tablet.addon_hookup
 	name: "@@tablet@@ DLC H"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	variant: dh
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
@@ -13,8 +13,6 @@ accessory_hookup_int_ui_data : tab_h.tablet.addon_hookup
 	ui_path: "/ui/dashboard/tablet_gps.dlc_toys.sii"
 	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toypanel/tablet/tablet_ui.tobj"
 	ui_drawable_size: (1024, 1024)
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_ui_data : tab_v.tablet.addon_hookup
@@ -22,7 +20,7 @@ accessory_hookup_int_ui_data : tab_v.tablet.addon_hookup
 	name: "@@tablet@@ DLC V"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
 	variant: dv
@@ -32,8 +30,6 @@ accessory_hookup_int_ui_data : tab_v.tablet.addon_hookup
 	ui_path: "/ui/dashboard/tablet_gps.dlc_toys.sii"
 	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toypanel/tablet/tablet_ui.tobj"
 	ui_drawable_size: (1024, 1024)
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : tab_gh.tablet.addon_hookup
@@ -41,14 +37,12 @@ accessory_hookup_int_data : tab_gh.tablet.addon_hookup
 	name: "@@tablet@@ GPS H"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
 	variant: gh
 	price: 3300
 	unlock: 1
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : tab_gv.tablet.addon_hookup
@@ -56,14 +50,12 @@ accessory_hookup_int_data : tab_gv.tablet.addon_hookup
 	name: "@@tablet@@ GPS V"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
 	variant: gv
 	price: 3400
 	unlock: 1
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : tab_ch.tablet.addon_hookup
@@ -71,14 +63,12 @@ accessory_hookup_int_data : tab_ch.tablet.addon_hookup
 	name: "@@tablet@@ Custom H"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
 	variant: ch
 	price: 3700
 	unlock: 1
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }
 
 accessory_hookup_int_data : tab_cv.tablet.addon_hookup
@@ -86,12 +76,10 @@ accessory_hookup_int_data : tab_cv.tablet.addon_hookup
 	name: "@@tablet@@ Custom V"
 	icon: "truck/upgrade/interior_decors/toypanel/tablet/tablet_gps_default"
 	part_type: aftermarket
-	model: "/vehicle/truck/upgrade/interior_decors/toyglass/tablet.pmd"
+	model: "/custom/tablet.pmd"
 	suitable_for[]: "set_glass"
 	suitable_for[]: "set_lglass"
 	variant: cv
 	price: 3800
 	unlock: 1
-
-	overrides[]: "/def/vehicle/truck/daf.xf_euro6/accessory/set_lglass/gps_hud.sii"
 }

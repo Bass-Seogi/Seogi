@@ -8,7 +8,7 @@ accessory_addon_data : gm2.scania.s_2016.hud
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 
-	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	interior_model: "/vehicle/truck/upgrade/hud2.pmd"
 	variant: gm
 	look: default
 }

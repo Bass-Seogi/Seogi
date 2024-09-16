@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : ds2.scania.streamline.hud
+accessory_addon_int_ui_data : ds2.scania.streamline.hud
 {
 	name: "HUD DLC @@small@@ @@high@@ SH"
 	price: 1500
@@ -8,9 +8,11 @@ accessory_addon_data : ds2.scania.streamline.hud
 	icon: "gps.dlc_toys"
 	part_type: aftermarket
 
-	overrides[]: "/def/vehicle/truck/scania.streamline/accessory/set_lglass/gps_hud.sii"
-	interior_model: "/vehicle/truck/upgrade/hud.pmd"
+	interior_model: "/vehicle/truck/upgrade/hud2.pmd"
 	variant: ds
-	look: default
+
+	ui_path: "/ui/dashboard/gps.dlc_toys.sii"
+	ui_drawable_texture_path: "/vehicle/truck/upgrade/interior_decors/toyglass/gps_ui.tobj"
+	ui_drawable_size: (512, 256)
 }
 }
