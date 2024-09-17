@@ -1,0 +1,31 @@
+﻿[blue]Seogi ATS Fog Lights All Truck
+It will function normally from 1.51
+
+[red]My mod is only hosted in the workshop.
+If you find my mod on other sites, we do not support it.[normal]
+
+
+When you turn on the headlights, the fog lights work.
+
+
+freightliner.cascadia2019
+peterbilt.579
+peterbilt.389
+
+kenworth.w900 (Need dlc_w900_tuning - storm_chrome , storm_paint)
+kenworth.t680_2022
+kenworth.t680
+
+mack.anthem
+mack.pinnacle
+
+volvo.vnl
+volvo.vnl2018
+
+westernstar.49x
+westernstar.57x
+westernstar.5700xe
+
+intnational.lt
+intnational.lonestar
+intnational.9900i
