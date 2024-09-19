@@ -1,0 +1,28 @@
+SiiNunit
+{
+trailer_configuration : .hct_10
+{
+	name: "HCT 10 (로딩 길음)"
+	chain_type: hct
+	icon: "chassis/kassbohrer/scx_hct"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+}
+}

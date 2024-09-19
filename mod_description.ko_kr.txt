@@ -25,14 +25,19 @@ Quad
 HCT 3
 HCT 5
 박스 HCT 10 ( 튕긴거 아니에요 로딩 오래 걸려요 )
-(Krone HCT - Krone DLC 필요)
-(krone_boxliner_2017_cargo - Krone DLC 필요)
+
+
+(Krone DLC 필요
+Krone HCT
+krone_boxliner_2017_cargo
 
 냉동 컨테이너
 krone.boxliner
-tirsan.shg
 wielton.containerm
+tirsan.shg
 kogel.port
+kassbohrer.shgr)
+
 
 [orange]경고 충돌 HCT
 페리	트렐레보리, 칼스크로나

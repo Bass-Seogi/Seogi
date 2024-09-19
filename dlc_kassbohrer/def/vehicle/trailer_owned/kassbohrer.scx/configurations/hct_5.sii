@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_configuration : .hct_5
+{
+	name: "HCT 5"
+	chain_type: hct
+	icon: "chassis/kassbohrer/scx_hct"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13.sii"
+}
+}

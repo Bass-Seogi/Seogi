@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .hct_3s
+{
+	name: "HCT 3, 스프레드"
+	chain_type: hct
+	icon: "chassis/kassbohrer/scx_hct2"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13_steer_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13_steer.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/kassbohrer.scx/chassis/ch_3_13_steer.sii"
+}
+}

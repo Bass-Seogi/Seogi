@@ -23,8 +23,19 @@ B-5
 Quad
 HCT 3
 HCT 5
-(Krone HCT - Need Krone DLC)
-(krone_boxliner_2017_cargo - Need Krone DLC)
+
+
+(Need Krone dlc
+Krone HCT
+krone_boxliner_2017_cargo
+
+Reefer Container
+krone.boxliner
+wielton.containerm
+tirsan.shg
+kogel.port
+kassbohrer.shgr)
+
 
 [orange]Warning Crash HCT
 ferry	Trelleborg, Karlskrona
