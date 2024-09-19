@@ -1,7 +1,7 @@
 ﻿[blue]콘보이 서기 트리플, HCT(High Capacity Transport, 턴파이크 더블)
 B-더블, 더블, HCT를 모든 유럽에서 나타나는 모드 입니다
 
-[red]1.50 부터 정상 작동합니다[normal]
+[red]1.51 부터 정상 작동합니다[normal]
 
 
 [green]지역 제한 해제 안되면
@@ -28,14 +28,19 @@ tmp는 모드가 자동으로 제거 되어서 하지 않아도 됩니다
 평판 B-더블
 커텐사이더 오픈 - 옆면 과 후면
 레미콘
-(Krone HCT - Krone DLC 필요)
-(krone_boxliner_2017_cargo - Krone DLC 필요)
+
+
+(Krone DLC 필요
+Krone HCT
+krone_boxliner_2017_cargo
 
 냉동 컨테이너
 krone.boxliner
-tirsan.shg
 wielton.containerm
+tirsan.shg
 kogel.port
+kassbohrer.shgr)
+
 
 어려운 주차
 콘솔 명령어 입니다
