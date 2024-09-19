@@ -1,18 +1,19 @@
 SiiNunit
 {
-trailer : .kassbohrer_shgr
+trailer : .kassbohrer.shgr
 {
  trailer_definition: trailer_def.kassbohrer.shg.singl_3e_40.container
  oversize: false
- cargo_mass: 14999.000000
+ cargo_mass: 16999.000000
  cargo_damage: 0.000000
  virtual_rear_wheels_offset: 0.000000
  slave_trailer: null
  is_private: false
- trailer_body_wear: 0.000000
- trailer_body_wear_unfixable: 0.000000
- accessories[]: _nameless.983e.0690
- accessories[]: _nameless.9d1c.3520
+ accessories[]: .data
+ accessories[]: .chassis
+ accessories[]: .body
+ accessories[]: .conr
+ accessories[]: .paint_job
  accessories[]: _nameless.88be.5fa0
  accessories[]: _nameless.88be.5e80
  accessories[]: _nameless.88be.5ee0
@@ -29,25 +30,7 @@ trailer : .kassbohrer_shgr
  accessories[]: _nameless.9d1c.4f00
  accessories[]: _nameless.9d1c.3c70
  accessories[]: _nameless.9d1c.4de0
- accessories[]: _nameless.983e.0790
- accessories[]: _nameless.983e.0210
- accessories[]: .conr
  accessories[]: _nameless.9d1c.43c0
- odometer: 0
- odometer_float_part: 0.000000
- integrity_odometer: 0
- integrity_odometer_float_part: 0.000000
- trip_fuel_l: 0
- trip_fuel: 0.000000
- trip_recuperation_kwh: 0
- trip_recuperation: 0.000000
- trip_distance_km: 0
- trip_distance: 0.000000
- trip_time_min: 0
- trip_time: 0.000000
- license_plate: ""
- chassis_wear: 0.000000
- chassis_wear_unfixable: 0.000000
  wheels_wear: 3
  wheels_wear[0]: 0.000000
  wheels_wear[1]: 0.000000
@@ -58,12 +41,31 @@ trailer : .kassbohrer_shgr
  wheels_wear_unfixable[2]: 0.000000
 }
 
-vehicle_accessory : _nameless.983e.0690 {
+vehicle_accessory : .data
+{
  data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/data.sii"
  refund: 0
 }
 
-vehicle_paint_job_accessory : _nameless.9d1c.3520 {
+vehicle_accessory : .chassis
+{
+ data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/chassis/ch_3e_40.sii"
+ refund: 0
+}
+
+vehicle_accessory : .body
+{
+ data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/body/cont_40r.sii"
+ refund: 0
+}
+
+vehicle_accessory : .conr
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40r.sii"
+}
+
+vehicle_paint_job_accessory : .paint_job
+{
  mask_r_color: (1.000000, 0.000000, 0.000000)
  mask_g_color: (0.000000, 1.000000, 0.000000)
  mask_b_color: (0.000000, 0.000000, 1.000000)
@@ -184,21 +186,6 @@ vehicle_addon_accessory : _nameless.9d1c.4de0 {
  slot_hookup: 0
  data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/accessory/chs_f_r/cage.sii"
  refund: 0
-}
-
-vehicle_accessory : _nameless.983e.0790 {
- data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/chassis/ch_3e_40.sii"
- refund: 0
-}
-
-vehicle_accessory : _nameless.983e.0210 {
- data_path: "/def/vehicle/trailer_owned/kassbohrer.shg/body/cont_40r.sii"
- refund: 0
-}
-
-vehicle_accessory : .conr
-{
-	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40r.sii"
 }
 
 vehicle_addon_accessory : _nameless.9d1c.43c0 {
