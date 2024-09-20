@@ -1,0 +1,21 @@
+SiiNunit
+{
+accessory_trailer_body_data : dryvan.krone.dryliner_e.body
+{
+	name: "@@series_krone_dry_liner@@ eTrailer"
+	price: 50000
+	unlock: 10
+	icon: "body/krone/dryliner"
+	part_type: factory
+
+	# All is based on Krone Dry Liner trailer data
+	# https://www.krone-trailer.com/english/products/dry-freight-box-body/dry-liner/
+
+	size: (2.48, 2.715, 13.62)	# width, height, length (internal size of the body)
+	total_size: (2.55, 4.0, 13.62)	# width, height, length (size of the body + chassis)
+
+	volume: 87
+	body_type: dryvan
+	mass: 0
+}
+}

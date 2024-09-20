@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_trailer_body_data : reefer.krone.coolliner_e.body
+{
+	name: "@@series_krone_cool_liner@@ eTrailer"
+	price: 80000
+	unlock: 10
+	icon: "body/krone/coolliner"
+
+	# All is based on Krone Cool Liner trailer data
+	# https://www.krone-trailer.com/english/products/refrigerated-semitrailer/cool-liner/
+
+	size: (2.465, 2.65, 13.31)	# width, height, length (internal size of the body)
+	total_size: (2.6, 4.0, 13.55)	# width, height, length (size of the body + chassis)
+
+	volume: 87
+	body_type: refrigerated
+	mass: 0
+}
+}
