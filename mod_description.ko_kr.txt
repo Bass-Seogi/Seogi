@@ -2,18 +2,21 @@
 B-더블, 더블, HCT를 모든 유럽에서 나타나는 모드 입니다
 싱글 모드라해도 콘보이 모드세션은 가능합니다
 
-[red]1.50 부터 정상 작동합니다[normal]
+[red]1.51 부터 정상 작동합니다[normal]
 
 
 어려운 주차
 콘솔 명령어 입니다
 "g_simple_parking_doubles 0"
 
-
 [green]일반 더블 트레일러 들도 잠금 해제 해놨습니다
 
 지역 제한 해제 안되면
-새로 구매 하던지 정비소에서 체인 타입 변경 하면 됩니다
+새로 구매 하던지 정비소에서 체인 타입 변경 하면 됩니다[normal]
+
+[orange]경고 충돌 HCT
+페리	트렐레보리, 칼스크로나
+터널	칼레 - 포크스턴(도버)
 
 추가 트레일러
 평판 B-더블
@@ -26,10 +29,11 @@ HCT 3
 HCT 5
 박스 HCT 10 ( 튕긴거 아니에요 로딩 오래 걸려요 )
 
-
 (Krone DLC 필요
 Krone HCT
 krone_boxliner_2017_cargo
+krone_coolliner_etrailer
+krone_dryliner_etrailer
 
 냉동 컨테이너
 krone.boxliner
@@ -37,12 +41,6 @@ wielton.containerm
 tirsan.shg
 kogel.port
 kassbohrer.shgr)
-
-
-[orange]경고 충돌 HCT
-페리	트렐레보리, 칼스크로나
-터널	칼레 - 포크스턴(도버)
-
 
 [orange]경고 덤프 B-더블 바디는 길고 운전석을 관통합니다.
 일부 트럭 6x4 및 6x2 섀시를 사용하십시오.
