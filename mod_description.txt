@@ -4,7 +4,13 @@ B-doubles, Doubles, HCT is the mode that appears in all Europ
 [red]It will function normally from 1.51[normal]
 
 
-[green]You will have to buy a new one or change the chain type at the repair shop.
+HARD parking
+This is a console command
+"g_simple_parking_doubles 0"
+
+[green]unlocked the standard double-trailers
+
+You will have to buy a new one or change the chain type at the repair shop.
 
 Trailer change is possible only in singles
 You have to remove the mode after purchasing it from a single to become a convoy.
@@ -13,7 +19,6 @@ tmp is automatically removed so you don't have to do it.
 Buy from a singles and change to tmp
 Non cargo is tmp problem
 I need to get some sleep[normal]
-
 
 [orange]Warning Crash HCT
 ferry	Trelleborg, Karlskrona
@@ -24,14 +29,11 @@ Flatbed B-double
 Curtains Open - side and back
 Mixer
 
-HARD parking
-This is a console command
-"g_simple_parking_doubles 0"
-
-
 (Need Krone dlc
 Krone HCT
 krone_boxliner_2017_cargo
+krone_coolliner_etrailer
+krone_dryliner_etrailer
 
 Reefer Container
 krone.boxliner
@@ -39,7 +41,6 @@ wielton.containerm
 tirsan.shg
 kogel.port
 kassbohrer.shgr)
-
 
 [orange]Warning Dump B-Double body is long and goes through the driver's seat.
 Please use some truck 6x4 & 6x2 chassis.
