@@ -1,0 +1,27 @@
+SiiNunit
+{
+# ".package_name" does not matter as the dot at the beginning of the file means
+# that this unit is anonymous. Please keep this form to not make any conflicts
+# with other mod packages (name collisions).
+mod_package : .package_name
+{
+	# Package version can be any string with any length.
+	package_version: "240921n"
+
+	# Display name can be any string with any length.
+	# display_name: "레빈 LEVIN 생방송 애드온"
+
+	# Author can be any string with any length.
+	author: "Seogi , Halfwing"
+
+	# Categories is an array of strings.
+	category[]: "interior"
+
+	# Icon is a path relative to mod root directory.
+	icon: "cl.jpg"
+
+	# Description file is a path relative to mod root directory.
+	description_file: "mod_description.txt"
+	mp_mod_optional: true
+}
+}
