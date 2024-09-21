@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cl4.peterbilt.579.toyac
+{
+	name: "베이스 서기"
+	price: 104
+	unlock: 0
+	icon: "cl4"
+	part_type: aftermarket
+
+	interior_model: "/cir/cir.pmd"
+
+	look: cl4
+}
+}

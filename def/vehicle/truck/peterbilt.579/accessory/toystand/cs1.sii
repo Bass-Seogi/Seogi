@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cs1.peterbilt.579.toystand
+{
+	name: "레빈 SD"
+	price: 101
+	unlock: 0
+	icon: "cl1"
+	part_type: aftermarket
+
+	interior_model: "/cir/cs.pmd"
+
+	look: cl1
+}
+}
