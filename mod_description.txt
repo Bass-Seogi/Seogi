@@ -1,6 +1,6 @@
 ﻿[blue]Seogi ATS All Trucks 625 Hp
 
-[red]It will function normally from 1.49[normal]
+[red]It will function normally from 1.51[normal]
 
 [green]Seogi Engines & Transmissions
 

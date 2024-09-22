@@ -6,7 +6,7 @@ SiiNunit
 mod_package : .package_name
 {
 	# Package version can be any string with any length.
-	package_version: "231225"
+	package_version: "240922"
 
 	# Display name can be any string with any length.
 	# display_name: "Seogi ATS 625 Hp"
