@@ -1,0 +1,15 @@
+﻿[blue]Seogi ATS All Trucks 625 Hp
+
+[red]It will function normally from 1.49[normal]
+
+[green]Seogi Engines & Transmissions
+
+v1.49 18,6 Transmission optional
+
+As of v1.44, there is a mod refund function.
+If you remove the mod, it goes back to the low speed engine.
+
+v1.43 Kenworth W900 625 hp engine optional
+
+v1.41 Engines purchase is available only when single mode is applied, 
+If you tuned it at the time of purchase, Engines disappears.[normal]
