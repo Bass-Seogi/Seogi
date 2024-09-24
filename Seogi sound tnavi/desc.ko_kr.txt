@@ -1,0 +1,2 @@
+[blue]서기 T navi
+[red]1.43 부터 정상 작동합니다[normal]
