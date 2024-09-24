@@ -1,8 +1,0 @@
-﻿SiiNunit
-{
-voice_navigation_config : .english.arnold_us.pack
-{
-	pack_name: "English - Arnold Terminator"
-	pack_dir: "/sound/navigation/english_arnold_schwarzenegger"
-}
-}
