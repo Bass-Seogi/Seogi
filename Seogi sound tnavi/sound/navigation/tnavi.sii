@@ -1,8 +1,0 @@
-﻿SiiNunit
-{
-voice_navigation_config : .korean.tnavi.pack
-{
-	pack_name: "한국어 - 티나비"
-	pack_dir: "/sound/navigation/tnavi"
-}
-}
