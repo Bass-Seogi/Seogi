@@ -1,0 +1,25 @@
+effect : "eut2.dif.spec.oclu.tsnmapuv.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.587715 , 0.587715 , 0.587715 }
+	reflection : 0.000000
+	shininess : 25.000000
+	specular : { 0.270523 , 0.270523 , 0.270523 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/plastic/plastic_base.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/kenworth_w900/normal.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_oclu" {
+		source : "/vehicle/truck/kenworth_w900/ao_shared.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}

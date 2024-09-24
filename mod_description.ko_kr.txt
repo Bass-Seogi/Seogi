@@ -12,7 +12,7 @@ freightliner.cascadia2019
 peterbilt.579
 peterbilt.389
 
-kenworth.w900 (Need dlc_w900_tuning - storm_chrome , storm_paint)
+kenworth.w900 Standard II (Need dlc_w900_tuning - Storm , Storm Painted)
 kenworth.t680_2022
 kenworth.t680
 
