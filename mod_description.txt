@@ -1,6 +1,6 @@
 ﻿[blue]Seogi ETS2 No Barrier
 
-[red]It will function normally from 1.50[normal]
+[red]It will function normally from 1.51[normal]
 
 
 Remove tollgate barrier
