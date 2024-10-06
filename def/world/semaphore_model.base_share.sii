@@ -12,8 +12,8 @@ tr_semaphore_model : tr_sem_mdl.bar_01_s
 
 	name: "gate_bar_01"
 
-	model_desc: "/asset/props/road/gate_bar_01_mov.pmd"
-	model_coll: "/asset/props/road/gate_bar_01_mov.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 
@@ -39,8 +39,8 @@ tr_semaphore_model : tr_sem_mdl.bar_01_m_s
 
 	name: "gate_bar_01_mirror"
 
-	model_desc: "/asset/props/road/gate_bar_01_mirror_mov.pmd"
-	model_coll: "/asset/props/road/gate_bar_01_mirror_mov.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 
@@ -66,8 +66,8 @@ tr_semaphore_model : tr_sem_mdl.bar_02_s
 
 	name: "gate_bar_02"
 
-	model_desc: "/asset/props/road/gate_bar_02_mov.pmd"
-	model_coll: "/asset/props/road/gate_bar_02_mov.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 
@@ -93,8 +93,8 @@ tr_semaphore_model : tr_sem_mdl.sld_01_s
 
 	name: "gate_slide_01"
 
-	model_desc: "/asset/props/road/gate_slide_01_mov.pmd"
-	model_coll: "/asset/props/road/gate_slide_01_mov.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 
@@ -120,8 +120,8 @@ tr_semaphore_model : tr_sem_mdl.rot_01_s
 
 	name: "gate_rotate_01"
 
-	model_desc: "/asset/props/road/gate_rotate_01_mov.pmd"
-	model_coll: "/asset/props/road/gate_rotate_01_mov.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 

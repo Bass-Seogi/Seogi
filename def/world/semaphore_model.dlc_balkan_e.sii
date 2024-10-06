@@ -114,8 +114,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.bulgaria
 
 	name: "level_right_bg"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_bg.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_bg.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -139,8 +139,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.turkey {
 
 	name: "level_right_tr"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_tr.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_tr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -165,8 +165,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.romania {
 
 	name: "level_right_ro"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_ro.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_ro.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	

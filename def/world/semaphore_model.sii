@@ -425,8 +425,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r
 
 	name: "ab_right_cz"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_cz.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_cz.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2465,8 +2465,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r_s.russia
 
 	name: "level_right_simple_ru"
 
-	model_desc: "/prefab2/level_crossing/level_right_simple_01_ru.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_simple_01_ru.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 	
 	#sound
 	sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
@@ -2477,8 +2477,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.switzerland
 
 	name: "level_right_ch"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_ch.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_ch.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2523,8 +2523,8 @@ tr_semaphore_model : tr_sem_mdl.bd_gen
 
 	name: "border barrier generic truck"
 
-	model_desc: "/model2/gates/border_gate_gen_anim.pmd"
-	model_coll: "/model2/gates/border_gate_gen_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2546,8 +2546,8 @@ tr_semaphore_model : tr_sem_mdl.bd_gen_car
 
 	name: "border barrier generic car"
 
-	model_desc: "/model2/gates/border_gate_gen_car_anim.pmd"
-	model_coll: "/model2/gates/border_gate_gen_car_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2587,8 +2587,8 @@ tr_semaphore_model : tr_sem_mdl.ba_toll
 
 	name: "ba_toll"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_ba_ibe_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_ba_ibe_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2610,8 +2610,8 @@ tr_semaphore_model : tr_sem_mdl.es_toll
 
 	name: "es_toll"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_es_ibe_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_es_ibe_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2633,8 +2633,8 @@ tr_semaphore_model : tr_sem_mdl.pt_toll
 
 	name: "pt_toll"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_pt_ibe_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_pt_ibe_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2726,8 +2726,8 @@ tr_semaphore_model : tr_sem_mdl.bd_gen_m
 
 	name: "border barrier generic truck mirror"
 
-	model_desc: "/model2/gates/border_gate_gen_anim_mirror.pmd"
-	model_coll: "/model2/gates/border_gate_gen_anim_mirror.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2750,8 +2750,8 @@ tr_semaphore_model : tr_sem_mdl.at_toll
 
 	name: "at_toll"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_a_at_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_a_at_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2773,8 +2773,8 @@ tr_semaphore_model : tr_sem_mdl.at_toll_b
 
 	name: "at_toll_b"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_b_at_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_b_at_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2796,8 +2796,8 @@ tr_semaphore_model : tr_sem_mdl.rus_toll_b
 
 	name: "rus_toll_b"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_b_rus_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_b_rus_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2819,8 +2819,8 @@ tr_semaphore_model : tr_sem_mdl.bd_gen_car_m
 
 	name: "border barrier generic car mirrored"
 
-	model_desc: "/model2/gates/border_gate_gen_car_anim_mirror.pmd"
-	model_coll: "/model2/gates/border_gate_gen_car_anim_mirror.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2843,8 +2843,8 @@ tr_semaphore_model : tr_sem_mdl.rus_toll_c
 
 	name: "rus_toll_c"
 
-	model_desc: "/model2/props/street/animated/toll_semaphore_oversize_1_rus_anim.pmd"
-	model_coll: "/model2/props/street/animated/toll_semaphore_oversize_1_rus_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	

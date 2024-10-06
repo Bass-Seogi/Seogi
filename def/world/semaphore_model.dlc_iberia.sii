@@ -145,8 +145,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.spain
 
 	name: "level_right_es"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_es.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_es.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -171,8 +171,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r2.spain
 
 	name: "level_right_double_es"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_02_es.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_02_es.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -197,8 +197,8 @@ tr_semaphore_model : tr_sem_mdl.cross_np_r.spain
 
 	name: "level_right_no_pole_es"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_np_es.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_np_es.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	#sound
     sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
@@ -209,8 +209,8 @@ tr_semaphore_model : tr_sem_mdl.cross_np_r2.spain
 
 	name: "level_right_no_pole_es"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_02_np_es.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_02_np_es.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	#sound
     sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
@@ -221,8 +221,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.portugal
 
 	name: "level_right_es"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_pt.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_pt.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
