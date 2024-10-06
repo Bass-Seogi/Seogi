@@ -1,0 +1,189 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+
+
+tr_semaphore_model : tr_sem_mdl.single.romania
+{
+	name: "single_ro"
+
+	model_desc: "/model/traffic_light/single_ro.pmd"
+	model_coll: "/model/traffic_light/single_ro.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.city.romania
+{
+	name: "city_ro"
+
+	model_desc: "/model/traffic_light/city_ro.pmd"
+	model_coll: "/model/traffic_light/city_ro.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.singlecity.romania
+{
+	name: "singlecity_ro"
+
+	model_desc: "/model/traffic_light/singlecity_ro.pmd"
+	model_coll: "/model/traffic_light/singlecity_ro.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.single.bulgaria
+{
+	name: "single_bg"
+
+	model_desc: "/model/traffic_light/single_bg.pmd"
+	model_coll: "/model/traffic_light/single_bg.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.city.bulgaria
+{
+	name: "city_bg"
+
+	model_desc: "/model/traffic_light/city_bg.pmd"
+	model_coll: "/model/traffic_light/city_bg.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.singlecity.bulgaria
+{
+	name: "singlecity_bg"
+
+	model_desc: "/model/traffic_light/singlecity_bg.pmd"
+	model_coll: "/model/traffic_light/singlecity_bg.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.single.turkey
+{
+	name: "single_tr"
+
+	model_desc: "/model/traffic_light/single_tr.pmd"
+	model_coll: "/model/traffic_light/single_tr.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.single_str.turkey
+{
+	name: "single_tr"
+
+	model_desc: "/model/traffic_light/single_stripe_tr.pmd"
+	model_coll: "/model/traffic_light/single_stripe_tr.pmc"
+
+	colored_luminosity: true
+}
+
+
+tr_semaphore_model : tr_sem_mdl.city.turkey
+{
+	name: "city_tr"
+
+	model_desc: "/model/traffic_light/city_tr.pmd"
+	model_coll: "/model/traffic_light/city_tr.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.city_str.turkey
+{
+	name: "city_stripe_tr"
+
+	model_desc: "/model/traffic_light/city_stripe_tr.pmd"
+	model_coll: "/model/traffic_light/city_stripe_tr.pmc"
+
+	colored_luminosity: true
+}
+
+tr_semaphore_model : tr_sem_mdl.city_str_mir.turkey
+{
+	name: "city_stripe_mirrored_tr"
+
+	model_desc: "/model/traffic_light/city_stripe_mirrored_tr.pmd"
+	model_coll: "/model/traffic_light/city_stripe_mirrored_tr.pmc"
+
+	colored_luminosity: true
+}
+
+tr_semaphore_model : tr_sem_mdl.singlecity.turkey
+{
+	name: "singlecity_tr"
+
+	model_desc: "/model/traffic_light/singlecity_tr.pmd"
+	model_coll: "/model/traffic_light/singlecity_tr.pmc"
+}
+
+tr_semaphore_model : tr_sem_mdl.crossing_r.bulgaria
+{
+
+	name: "level_right_bg"
+
+	model_desc: "/prefab2/level_crossing/level_right_anim_01_bg.pmd"
+	model_coll: "/prefab2/level_crossing/level_right_anim_01_bg.pmc"
+
+	state_anim: 4
+	
+	# orange_to_red
+	state_anim[0]: ""
+	
+	# red
+	state_anim[1]: "/prefab2/level_crossing/r_down_bg.pma"
+	
+	# orange_to_green
+	state_anim[2]: "/prefab2/level_crossing/r_up_bg.pma"
+	
+	# green
+	state_anim[3]: ""
+	
+	#sound
+    sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
+}
+
+tr_semaphore_model : tr_sem_mdl.crossing_r.turkey {
+
+	name: "level_right_tr"
+
+	model_desc: "/prefab2/level_crossing/level_right_anim_01_tr.pmd"
+	model_coll: "/prefab2/level_crossing/level_right_anim_01_tr.pmc"
+
+	state_anim: 4
+	
+	# orange_to_red
+	state_anim[0]: ""
+	
+	# red
+	state_anim[1]: "/prefab2/level_crossing/r_down_tr.pma"
+	
+	# orange_to_green
+	state_anim[2]: "/prefab2/level_crossing/r_up_tr.pma"
+	
+	# green
+	state_anim[3]: ""
+	
+	#sound
+    sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
+
+}
+
+tr_semaphore_model : tr_sem_mdl.crossing_r.romania {
+
+	name: "level_right_ro"
+
+	model_desc: "/prefab2/level_crossing/level_right_anim_01_ro.pmd"
+	model_coll: "/prefab2/level_crossing/level_right_anim_01_ro.pmc"
+
+	state_anim: 4
+	
+	# orange_to_red
+	state_anim[0]: ""
+	
+	# red
+	state_anim[1]: "/prefab2/level_crossing/r_down_ro.pma"
+	
+	# orange_to_green
+	state_anim[2]: "/prefab2/level_crossing/r_up_ro.pma"
+	
+	# green
+	state_anim[3]: ""
+	
+	#sound
+    sounds[]: "ROY|/sound/world/semaphore_ets.bank#semaphore/train"
+
+}
+}
