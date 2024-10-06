@@ -451,8 +451,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l
 
 	name: "ab_left_cz"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_cz.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_cz.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -478,8 +478,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.czech
 
 	name: "ab_right_cz"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_cz.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_cz.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -504,8 +504,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.czech
 
 	name: "ab_left_cz"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_cz.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_cz.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -530,8 +530,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.belgium
 
 	name: "ab_right_be"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_be.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_be.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -556,8 +556,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.belgium
 
 	name: "ab_left_be"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_be.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_be.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -582,8 +582,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.germany
 
 	name: "ab_right_de"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_de.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_de.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -608,8 +608,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.germany
 
 	name: "ab_left_de"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_de.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_de.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -634,8 +634,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.france
 
 	name: "ab_right_fr"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_fr.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -660,8 +660,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r2.france
 
 	name: "ab_right2_fr"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_rotated_fr.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_rotated_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -686,8 +686,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.france
 
 	name: "ab_left_fr"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_fr.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -712,8 +712,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.poland
 
 	name: "ab_right_pl"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_pl.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_pl.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -738,8 +738,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.poland
 
 	name: "ab_left_pl"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_pl.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_pl.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -764,8 +764,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.uk
 
 	name: "ab_right_uk"
 
-	model_desc: "/prefab/level_crossing/level_right_anim_uk.pmd"
-	model_coll: "/prefab/level_crossing/level_right_anim_uk.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -790,8 +790,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.uk
 
 	name: "ab_left_uk"
 
-	model_desc: "/prefab/level_crossing/level_left_anim_uk.pmd"
-	model_coll: "/prefab/level_crossing/level_left_anim_uk.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -816,8 +816,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll
 
 	name: "ab_toll"
 
-	model_desc: "/prefab/tollgate/large_it_fr_tollgate/tolgate_small_anim.pmd"
-	model_coll: "/prefab/tollgate/large_it_fr_tollgate/tolgate_small_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -840,8 +840,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.france
 
 	name: "ab_toll_fr"
 
-	model_desc: "/model2/barrier/animated/toll_gate_fr.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -864,8 +864,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.poland
 
 	name: "ab_toll_pl"
 
-	model_desc: "/prefab/tollgate/tollgate_a2_poland/tollgate_anim.pmd"
-	model_coll: "/prefab/tollgate/tollgate_a2_poland/tollgate_anim.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -970,8 +970,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.norway
 
 	name: "ab_toll_n"
 
-	model_desc: "/model2/barrier/animated/toll_gate_sc.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_sc.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -994,8 +994,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.sweden
 
 	name: "ab_toll_s"
 
-	model_desc: "/model2/barrier/animated/toll_gate_sc.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_sc.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1018,8 +1018,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.denmark
 
 	name: "ab_toll_dk"
 
-	model_desc: "/model2/barrier/animated/toll_gate_sc.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_sc.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1052,8 +1052,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.italy
 
 	name: "level_right_it"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_it.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_it.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1078,8 +1078,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_l.italy
 
 	name: "level_left_it"
 
-	model_desc: "/prefab2/level_crossing/level_left_anim_01_it.pmd"
-	model_coll: "/prefab2/level_crossing/level_left_anim_01_it.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1104,8 +1104,8 @@ tr_semaphore_model : tr_sem_mdl.ab_toll.italy
 
 	name: "ab_toll_it"
 
-	model_desc: "/prefab2/tollgate/tolgate_small_anim_it_01.pmd"
-	model_coll: "/prefab2/tollgate/tolgate_small_anim_it_01.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1227,8 +1227,8 @@ tr_semaphore_model : tr_sem_mdl.border
 
 	name: "border barrier"
 
-	model_desc: "/model2/barrier/animated/toll_gate_fr.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1251,8 +1251,8 @@ tr_semaphore_model : tr_sem_mdl.border_l
 
 	name: "border barrier long"
 
-	model_desc: "/model2/barrier/animated/toll_gate_long_fr.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_long_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1275,8 +1275,8 @@ tr_semaphore_model : tr_sem_mdl.border_m
 
 	name: "border barrier mirrored"
 
-	model_desc: "/model2/barrier/animated/toll_gate_mirrored_fr.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_mirrored_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -1299,8 +1299,8 @@ tr_semaphore_model : tr_sem_mdl.border_ml
 
 	name: "border barrier mirrored long"
 
-	model_desc: "/model2/barrier/animated/toll_gate_long_mirrored_fr.pmd"
-	model_coll: "/model2/barrier/animated/toll_gate_long_mirrored_fr.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2309,8 +2309,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.estonia
 
 	name: "level_right_iest"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_est.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_est.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2335,8 +2335,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.finland
 
 	name: "level_right_fi"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_fi.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_fi.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2361,8 +2361,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r2.finland
 
 	name: "level_right_fi_single"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_02_fi.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_02_fi.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2387,8 +2387,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.latvia
 
 	name: "level_right_lv"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_lv.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_lv.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2413,8 +2413,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.lithuania
 
 	name: "level_right_lt"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_lt.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_lt.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
@@ -2439,8 +2439,8 @@ tr_semaphore_model : tr_sem_mdl.crossing_r.russia
 
 	name: "level_right_ru"
 
-	model_desc: "/prefab2/level_crossing/level_right_anim_01_ru.pmd"
-	model_coll: "/prefab2/level_crossing/level_right_anim_01_ru.pmc"
+	model_desc: "/vehicle/wheel/empty/empty_10cm.pmd"
+	model_coll: ""
 
 	state_anim: 4
 	
