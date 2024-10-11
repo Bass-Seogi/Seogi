@@ -1,0 +1,10 @@
+effect : "eut2.retroreflective.tsnmap.piko.alldir.rfx" {
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/decal/reflective_stripe.tobj"
+		sampler : default
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/share/textures/decal/reflective_stripe_normal.tobj"
+		sampler : default
+	}
+}
