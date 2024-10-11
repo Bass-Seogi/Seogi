@@ -9,7 +9,7 @@ mod_package : .package_name
 	package_version: "241011"
 
 	# Display name can be any string with any length.
-	# display_name: "Seogi Blade Ownable ETS2"
+	# display_name: "Seogi Blade Trailer"
 
 	# Author can be any string with any length.
 	author: "Seogi"

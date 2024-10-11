@@ -1,4 +1,4 @@
-﻿[blue]Seogi Wind Turbine Blade Ownable
+﻿[blue]Seogi Wind Turbine Blade Trailer
 
 [red]It works on 1.51 and above
 When tuning, it bounces,
