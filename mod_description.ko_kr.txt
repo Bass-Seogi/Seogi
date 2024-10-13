@@ -14,8 +14,8 @@ intnational.lonestar
 intnational.lt
 intnational.9900i
 
-mack.anthem
-mack.pinnacle
+mack.anthem (후방캠)
+mack.pinnacle (후방캠)
 
 freightliner.cascadia2019 (후방캠)
 westernstar.49x

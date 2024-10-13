@@ -14,8 +14,8 @@ intnational.lonestar
 intnational.lt
 intnational.9900i
 
-mack.anthem
-mack.pinnacle
+mack.anthem (Rear cam)
+mack.pinnacle (Rear cam)
 
 freightliner.cascadia2019 (Rear cam)
 westernstar.49x
